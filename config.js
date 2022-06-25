@@ -43,11 +43,11 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/reteam.id"
+global.urlnya = "https://www.instagram.com/Ibnuopbrrww"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 882-1784-3188'
+global.phn = '+62 895-3386-90940'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
@@ -57,8 +57,8 @@ global.dikit = "dikit lagi, semangat ya :')"
 global.multiplier = 100 // The higher, The harder levelup
 
 // Sticker WM
-global.packname = data.namabot;
-global.author = data.owner;
+global.packname = "YuutaBotz-MD"
+global.author = "Yuuta-Ganz"
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
